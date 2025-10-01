@@ -14,7 +14,7 @@ const experiences = [
         location: "Remote",
         period: "Oct 2024 - Mar 2025",
         description:
-            "Spearheaded the development ofStartup for Startups, a team-building web application, by designing a responsive frontend usingReact,Tailwind CSS, andShadCN, and implementing a high-performance backend withNodeJs,Express, andRedis.",
+            "Spearheaded the development of Startup for Startups, a team-building web application, by designing a responsive frontend using React, Tailwind CSS, and ShadCN, and implementing a high-performance backend with NodeJs, Express, and Redis.",
         technologies: ["React", "Node.js", "MongoDB", "Redis", "Serverless", "security best practices"],
         achievements: [
             "Reduced application load time by 40%",
