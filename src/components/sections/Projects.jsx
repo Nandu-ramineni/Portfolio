@@ -79,7 +79,7 @@ const projects = [
     
 ]
 
-const categories = ["All", "Full Stack", "Frontend", "Data Visualization", "Mobile"]
+const categories = ["All", "Full Stack", "AI/ML", "AI Full Stack", "Cloud"]
 
 export default function ProjectsSection() {
     const ref = useRef(null)
