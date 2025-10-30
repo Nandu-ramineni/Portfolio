@@ -25,7 +25,7 @@ const education = [
     {
         degree: "Bachelor's of Technology in AI",
         institution: "Parul University",
-        period: "",
+        period: "2021 - 2025",
         gpa: "8.0/10.0",
         description:
             "Earned a Bachelor's degree in Artificial Intelligence, gaining a comprehensive foundation in Artificial Intelligence, Machine Learning, software development, data structures, and system design.",
