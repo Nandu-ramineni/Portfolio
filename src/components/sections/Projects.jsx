@@ -19,7 +19,7 @@ const projects = [
         image: Img6,
         technologies: ["React", "Node.js", "Express", "MongoDB", "Stripe","microservices","docker","kubernetes"],
         features: ["Job listings", "Proposal management", "Secure payments", "User profiles","client profiles"],
-        github: "https://github.com/Nandu-ramineni/freelance-marketplace",
+        github: "https://github.com/Nandu-ramineni/HireBid-Freelance_A_MarketPlace.git",
         demo: "#",
         category: "Full Stack",
     },
